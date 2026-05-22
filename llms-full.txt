@@ -1,0 +1,51 @@
+# Mecanicadesuelos — Las Condes
+
+> Geotechnical engineering services in Las Condes, Chile.
+
+## Services
+- [Aislacion Sismica](https://las-condes.geotecnia.sbs/aislacion-sismica/)
+- [Anclajes](https://las-condes.geotecnia.sbs/anclajes/)
+- [Calicatas](https://las-condes.geotecnia.sbs/calicatas/)
+- [Cbr Vial](https://las-condes.geotecnia.sbs/cbr-vial/)
+- [Cimentaciones](https://las-condes.geotecnia.sbs/cimentaciones/)
+- [Columnas Grava](https://las-condes.geotecnia.sbs/columnas-grava/)
+- [Densidad Cono Arena](https://las-condes.geotecnia.sbs/densidad-cono-arena/)
+- [Ensayo Cpt](https://las-condes.geotecnia.sbs/ensayo-cpt/)
+- [Ensayos Proctor](https://las-condes.geotecnia.sbs/ensayos-proctor/)
+- [Estabilidad Taludes](https://las-condes.geotecnia.sbs/estabilidad-taludes/)
+- [Excavaciones Profundas](https://las-condes.geotecnia.sbs/excavaciones-profundas/)
+- [Excavaciones Subterraneo](https://las-condes.geotecnia.sbs/excavaciones-subterraneo/)
+- [Exploracion](https://las-condes.geotecnia.sbs/exploracion/)
+- [Geotecnia Vial](https://las-condes.geotecnia.sbs/geotecnia-vial/)
+- [Granulometria](https://las-condes.geotecnia.sbs/granulometria/)
+- [Inyecciones](https://las-condes.geotecnia.sbs/inyecciones/)
+- [Laboratorio In Situ](https://las-condes.geotecnia.sbs/laboratorio-in-situ/)
+- [Laboratorio Lab](https://las-condes.geotecnia.sbs/laboratorio-lab/)
+- [Licuefaccion](https://las-condes.geotecnia.sbs/licuefaccion/)
+- [Limites Atterberg](https://las-condes.geotecnia.sbs/limites-atterberg/)
+- [Losas Fundacion](https://las-condes.geotecnia.sbs/losas-fundacion/)
+- [Masw](https://las-condes.geotecnia.sbs/masw/)
+- [Mejoramiento](https://las-condes.geotecnia.sbs/mejoramiento/)
+- [Microzonificacion Sismica](https://las-condes.geotecnia.sbs/microzonificacion-sismica/)
+- [Monitoreo Excavaciones](https://las-condes.geotecnia.sbs/monitoreo-excavaciones/)
+- [Muros Contencion](https://las-condes.geotecnia.sbs/muros-contencion/)
+- [Pavimento Flexible](https://las-condes.geotecnia.sbs/pavimento-flexible/)
+- [Pavimento Rigido](https://las-condes.geotecnia.sbs/pavimento-rigido/)
+- [Permeabilidad In Situ](https://las-condes.geotecnia.sbs/permeabilidad-in-situ/)
+- [Pilotes](https://las-condes.geotecnia.sbs/pilotes/)
+- [Refraccion Sismica](https://las-condes.geotecnia.sbs/refraccion-sismica/)
+- [Resistividad](https://las-condes.geotecnia.sbs/resistividad/)
+- [Sismica](https://las-condes.geotecnia.sbs/sismica/)
+- [Sondajes Spt](https://las-condes.geotecnia.sbs/sondajes-spt/)
+- [Taludes](https://las-condes.geotecnia.sbs/taludes/)
+- [Triaxial](https://las-condes.geotecnia.sbs/triaxial/)
+- [Tuneles Suelo Blando](https://las-condes.geotecnia.sbs/tuneles-suelo-blando/)
+- [Vibrocompactacion](https://las-condes.geotecnia.sbs/vibrocompactacion/)
+- [Zapatas](https://las-condes.geotecnia.sbs/zapatas/)
+
+## Contact
+- Website: https://las-condes.geotecnia.sbs/
+
+## About
+This site provides geotechnical engineering services in Las Condes, Chile.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
